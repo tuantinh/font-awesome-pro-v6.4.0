@@ -1,0 +1,1 @@
+# font-awesome-pro-v6.4.0
